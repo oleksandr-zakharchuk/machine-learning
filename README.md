@@ -24,7 +24,6 @@ Libraries that are used in working on datasets:
 - seaborn
 - matplotlib
 - pylab
-- collections
 - imblearn
 - category_encoders
 - lightgbm
