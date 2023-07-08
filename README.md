@@ -16,7 +16,6 @@ In addition to the topics indicated in the file name, working with datasets main
 
 # Libraries used in working on datasets
 
-Libraries that are used in working on datasets:
 - numpy
 - pandas
 - sklearn
@@ -29,3 +28,9 @@ Libraries that are used in working on datasets:
 - lightgbm
 - hdbscan
 - fbprophet
+- spacy
+- nltk
+- gensim
+- tensorflow
+- keras
+- transformers
